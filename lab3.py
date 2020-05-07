@@ -1,4 +1,4 @@
-import utilities
+import lab3_utilities
 
 def rotate_90_degrees(image_array, direction):
 	'''
