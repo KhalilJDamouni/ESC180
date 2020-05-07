@@ -2,6 +2,7 @@
 Labs for ESC180: Introduction to Computer Programming. 
 
 Lab Descriptions:
+
 Lab1: Various functions concerning calculations using XY coordinates, used to "track cows in a fields".
 
 Lab2: Various vector calculations, differences in bit representions, and binary to decimal conversion and algebra.
