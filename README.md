@@ -10,4 +10,4 @@ Lab3: Image manipulation. Rotation, flipping, color inversion, crop, greyscale, 
 
 Lab4: Used an n-gram model to general an original text, by parsing and organizing passed txt files.
 
-Lab5: implementation of a binary search tree that stores URLs.
+Lab5: Implementation of a binary search tree that stores URLs.
