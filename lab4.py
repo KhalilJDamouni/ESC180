@@ -1,4 +1,4 @@
-from utilities import *
+from lab4_utilities import *
 
 def parse_story(file_name): #1
     '''
